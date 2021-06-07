@@ -1,6 +1,7 @@
 package Dashboard;
 
 import Controllers.AddLog;
+
 import Controllers.DBController;
 import Controllers.ReportMaker;
 import Controllers.UpdateTour;
@@ -36,6 +37,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.sql.*;
 import java.util.Scanner;
+
 
 public class Dashboard extends Application {
   

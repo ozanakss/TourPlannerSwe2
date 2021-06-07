@@ -1,0 +1,5 @@
+SWE-TOUR PLANNER
+
+Um das Programm zum Laufen zu bringen müssen die erforderliche Tabellen und die Datenbank(tour-planner)in  PostgreSQL Server erstellt werden.Eine Copie vom Datenbank wurde im Ordner bereitgestellt.
+Die Config.txt Datei beinhaltet die Datenbank-Anmeldedaten und Jdbc-Url 
+Bitte ersetze diese AnmeldeDaten durch deine eigene AnmeldeDaten
